@@ -1,0 +1,10 @@
+[package]
+name = "nand2tetris"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "my_project"
+path = "src/lib.rs"
